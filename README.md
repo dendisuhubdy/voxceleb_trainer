@@ -49,7 +49,7 @@ Please cite the following if you make use of the code.
 @article{chung2020in,
   title={In defence of metric learning for speaker recognition},
   author={Chung, Joon Son and Huh, Jaesung and Mun, Seongkyu and Lee, Minjae and Heo, Hee Soo and Choe, Soyeon and Ham, Chiheon and Jung, Sunghwan and Lee, Bong-Jin and Han, Icksang},
-  journal={arXiv preprint arXiv:2003.xxxxx},
+  journal={arXiv preprint arXiv:2003.11982},
   year={2020}
 }
 ```
